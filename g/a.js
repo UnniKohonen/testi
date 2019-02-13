@@ -1,2 +1,1 @@
-/*global define console*/
-         console.log("a");
+console.log("a");
