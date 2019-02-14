@@ -8,5 +8,6 @@
     },
     "rules": {
         "semi": "error"
+	"max-len": ["error", {"code":80}]
     }
 }
