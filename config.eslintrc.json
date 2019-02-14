@@ -7,7 +7,7 @@
         }
     },
     "rules": {
-        "semi": "warn"
+        "semi": "warn",
 	"max-len": ["warn", {"code": 80}]
     }
 }
